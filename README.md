@@ -8,4 +8,4 @@ git submodule update --remote --init --recursive
 You need to start with nginx as a base, then follow the instructions for each
 module.
 
-You can follow the advancement of every submodule of the [project](https://github.com/users/AustralEpitech/projects/2) page.
+You can follow the advancement of every submodule on the [project](https://github.com/users/AustralEpitech/projects/2) page.
