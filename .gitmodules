@@ -19,3 +19,21 @@
 [submodule "modules/searxng"]
 	path = modules/searxng
 	url = https://github.com/AustralEpitech/selfhost-searxng.git
+[submodule "modules/lidarr"]
+	path = modules/lidarr
+	url = https://github.com/AustralEpitech/selfhost-lidarr.git
+[submodule "modules/readarr"]
+	path = modules/readarr
+	url = https://github.com/AustralEpitech/selfhost-readarr.git
+[submodule "modules/sonarr"]
+	path = modules/sonarr
+	url = https://github.com/AustralEpitech/selfhost-sonarr.git
+[submodule "modules/prowlarr"]
+	path = modules/prowlarr
+	url = https://github.com/AustralEpitech/selfhost-prowlarr.git
+[submodule "modules/radarr"]
+	path = modules/radarr
+	url = https://github.com/AustralEpitech/selfhost-radarr.git
+[submodule "modules/sites"]
+	path = modules/sites
+	url = https://github.com/AustralEpitech/selfhost-sites.git
