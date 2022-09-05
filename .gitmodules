@@ -37,3 +37,6 @@
 [submodule "modules/sites"]
 	path = modules/sites
 	url = https://github.com/AustralEpitech/selfhost-sites.git
+[submodule "modules/qbittorent"]
+	path = modules/qbittorent
+	url = https://github.com/AustralEpitech/selfhost-qbittorent.git
