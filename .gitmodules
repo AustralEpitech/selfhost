@@ -37,12 +37,12 @@
 [submodule "modules/sites"]
 	path = modules/sites
 	url = https://github.com/AustralEpitech/selfhost-sites.git
-[submodule "modules/qbittorent"]
-	path = modules/qbittorent
-	url = https://github.com/AustralEpitech/selfhost-qbittorent.git
 [submodule "modules/modoboa"]
 	path = modules/modoboa
 	url = https://github.com/AustralEpitech/selfhost-modoboa.git
 [submodule "modules/ombi"]
 	path = modules/ombi
 	url = https://github.com/AustralEpitech/selfhost-ombi.git
+[submodule "modules/qbittorrent"]
+	path = modules/qbittorrent
+	url = https://github.com/AustralEpitech/selfhost-qbittorrent.git
