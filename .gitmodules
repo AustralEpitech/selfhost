@@ -1,48 +1,45 @@
-[submodule "nginx"]
-	path = nginx
-	url = https://github.com/AustralEpitech/selfhost-nginx.git
 [submodule "install_site"]
 	path = install_site
 	url = https://github.com/AustralEpitech/selfhost-install_site.git
+[submodule "nginx"]
+	path = nginx
+	url = https://github.com/AustralEpitech/selfhost-nginx.git
+[submodule "modules/bazarr"]
+	path = modules/bazarr
+	url = https://github.com/AustralEpitech/selfhost-bazarr.git
 [submodule "modules/collabora"]
 	path = modules/collabora
 	url = https://github.com/AustralEpitech/selfhost-collabora.git
 [submodule "modules/jellyfin"]
 	path = modules/jellyfin
 	url = https://github.com/AustralEpitech/selfhost-jellyfin.git
-[submodule "modules/nextcloud"]
-	path = modules/nextcloud
-	url = https://github.com/AustralEpitech/selfhost-nextcloud.git
-[submodule "modules/rustdesk"]
-	path = modules/rustdesk
-	url = https://github.com/AustralEpitech/selfhost-rustdesk.git
-[submodule "modules/searxng"]
-	path = modules/searxng
-	url = https://github.com/AustralEpitech/selfhost-searxng.git
 [submodule "modules/lidarr"]
 	path = modules/lidarr
 	url = https://github.com/AustralEpitech/selfhost-lidarr.git
-[submodule "modules/readarr"]
-	path = modules/readarr
-	url = https://github.com/AustralEpitech/selfhost-readarr.git
-[submodule "modules/sonarr"]
-	path = modules/sonarr
-	url = https://github.com/AustralEpitech/selfhost-sonarr.git
-[submodule "modules/prowlarr"]
-	path = modules/prowlarr
-	url = https://github.com/AustralEpitech/selfhost-prowlarr.git
-[submodule "modules/radarr"]
-	path = modules/radarr
-	url = https://github.com/AustralEpitech/selfhost-radarr.git
-[submodule "modules/sites"]
-	path = modules/sites
-	url = https://github.com/AustralEpitech/selfhost-sites.git
 [submodule "modules/modoboa"]
 	path = modules/modoboa
 	url = https://github.com/AustralEpitech/selfhost-modoboa.git
+[submodule "modules/nextcloud"]
+	path = modules/nextcloud
+	url = https://github.com/AustralEpitech/selfhost-nextcloud.git
 [submodule "modules/ombi"]
 	path = modules/ombi
 	url = https://github.com/AustralEpitech/selfhost-ombi.git
+[submodule "modules/prowlarr"]
+	path = modules/prowlarr
+	url = https://github.com/AustralEpitech/selfhost-prowlarr.git
 [submodule "modules/qbittorrent"]
 	path = modules/qbittorrent
 	url = https://github.com/AustralEpitech/selfhost-qbittorrent.git
+[submodule "modules/radarr"]
+	path = modules/radarr
+	url = https://github.com/AustralEpitech/selfhost-radarr.git
+[submodule "modules/readarr"]
+	path = modules/readarr
+	url = https://github.com/AustralEpitech/selfhost-readarr.git
+[submodule "modules/searxng"]
+	path = modules/searxng
+	url = https://github.com/AustralEpitech/selfhost-searxng.git
+[submodule "modules/sonarr"]
+	path = modules/sonarr
+	url = https://github.com/AustralEpitech/selfhost-sonarr.git
