@@ -43,3 +43,6 @@
 [submodule "modules/sonarr"]
 	path = modules/sonarr
 	url = https://github.com/AustralEpitech/selfhost-sonarr.git
+[submodule "modules/gitea"]
+	path = modules/gitea
+	url = https://github.com/AustralEpitech/selfhost-gitea.git
