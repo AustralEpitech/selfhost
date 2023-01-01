@@ -46,3 +46,6 @@
 [submodule "modules/gitea"]
 	path = modules/gitea
 	url = https://github.com/AustralEpitech/selfhost-gitea.git
+[submodule "modules/element"]
+	path = modules/element
+	url = https://github.com/AustralEpitech/selfhost-element.git
